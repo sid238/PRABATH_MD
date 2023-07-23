@@ -14,7 +14,7 @@ global.devs = '94762280384';
 global.website = 'https://github.com/prabathLK/PRABATH-MD' //wa.me/+94762280384
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/H062oEI.jpeg'
 module.exports = {
-  OPENAI_API_KEY:process.env.OPENAI_API_KEY || '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',
+  OPENAI_API_KEY:process.env.OPENAI_API_KEY || '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',
   botname: process.env.BOT_NAME || 'PRABATH-MD',
   dl_limit: process.env.DL_SIZE || '300',
   art: process.env.AUTO_RESTART || 'true',
